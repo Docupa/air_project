@@ -42,7 +42,7 @@ void loop()
   delay(2000);
 }
 ```
-DHT 头文件在[此处](https://github.com/Docupa/sensor_code/blob/master/DHT11-master.zip)
+DHT 头文件在[此处](https://github.com/Docupa/air_project/blob/master/DHT11-master.zip)
 
 
 
